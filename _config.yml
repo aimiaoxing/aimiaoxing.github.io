@@ -29,7 +29,7 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: https://aimiaoxing.github.io/
+instagram: 
 
 sass:
   sass_dir: _sass
