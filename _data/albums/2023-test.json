@@ -1,0 +1,22 @@
+{
+  "order": [
+    "02.jpg",
+    "01.jpg"
+  ],
+  "dict": {
+    "02.jpg": {
+      "type": "photo",
+      "width": 1117,
+      "height": 860,
+      "path": "./photos\\2023\\test\\02.jpg",
+      "min_path": "./photos\\2023\\test\\02.min.jpg"
+    },
+    "01.jpg": {
+      "type": "photo",
+      "width": 1616,
+      "height": 1080,
+      "path": "./photos\\2023\\test\\01.jpg",
+      "min_path": "./photos\\2023\\test\\01.min.jpg"
+    }
+  }
+}
