@@ -6,15 +6,15 @@
   "dict": {
     "02.jpg": {
       "type": "photo",
-      "width": 1117,
-      "height": 860,
+      "width": 1616,
+      "height": 1080,
       "path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.jpg",
       "min_path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.min.jpg"
     },
     "01.jpg": {
       "type": "photo",
-      "width": 1616,
-      "height": 1080,
+      "width": 1117,
+      "height": 860,
       "path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.jpg",
       "min_path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.min.jpg"
     }
