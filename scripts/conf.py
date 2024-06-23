@@ -71,7 +71,7 @@ def write_json(path, data):
 
 with open(CONF_YAML_PATH, 'r') as config:
     site_conf = yaml.load(config, Loader=yaml.FullLoader)
-    copyright = '@MiaoXing'
+    copyright = '@' + site_conf['name']
     
     process = site_conf['process']
     if process:
