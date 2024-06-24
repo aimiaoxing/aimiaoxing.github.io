@@ -17,9 +17,38 @@
         ],
         "items": {
           "order": [
+            "\u516b\u6708",
             "\u5317\u4eac\u6d77\u6d0b\u9986"
           ],
           "dict": {
+            "\u516b\u6708": {
+              "name": "\u516b\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "\u516b\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u60e0\u7075\u987f\u725b\u6392"
+                ],
+                "dict": {
+                  "\u60e0\u7075\u987f\u725b\u6392": {
+                    "name": "\u60e0\u7075\u987f\u725b\u6392",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "\u516b\u6708",
+                      "\u60e0\u7075\u987f\u725b\u6392"
+                    ],
+                    "path": "./_data\\albums\\2023-\u516b\u6708-\u60e0\u7075\u987f\u725b\u6392.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "\u5317\u4eac\u6d77\u6d0b\u9986": {
               "name": "\u5317\u4eac\u6d77\u6d0b\u9986",
               "type": "album",
