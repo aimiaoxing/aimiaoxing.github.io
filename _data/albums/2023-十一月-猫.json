@@ -1,62 +1,54 @@
 {
   "order": [
-    "wx_camera_1701006670516.jpg",
-    "mmexport1700928309001.jpg",
-    "Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.jpg",
-    "IMG_20231129_130622.jpg",
-    "IMG_20231129_130616.jpg",
-    "IMG_20231129_130615.jpg",
-    "IMG_20231127_122622.jpg"
+    "6.jpg",
+    "5.jpg",
+    "4.jpg",
+    "3.jpg",
+    "2.jpg",
+    "1.jpg"
   ],
   "dict": {
-    "wx_camera_1701006670516.jpg": {
+    "6.jpg": {
+      "type": "photo",
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\6.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\6.min.jpg"
+    },
+    "5.jpg": {
+      "type": "photo",
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\5.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\5.min.jpg"
+    },
+    "4.jpg": {
+      "type": "photo",
+      "width": 3072,
+      "height": 4096,
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\4.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\4.min.jpg"
+    },
+    "3.jpg": {
       "type": "photo",
       "width": 1080,
       "height": 1920,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\wx_camera_1701006670516.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\wx_camera_1701006670516.min.jpg"
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\3.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\3.min.jpg"
     },
-    "mmexport1700928309001.jpg": {
+    "2.jpg": {
       "type": "photo",
       "width": 1080,
       "height": 1920,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\mmexport1700928309001.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\mmexport1700928309001.min.jpg"
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\2.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\2.min.jpg"
     },
-    "Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.jpg": {
+    "1.jpg": {
       "type": "photo",
       "width": 1213,
       "height": 628,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.min.jpg"
-    },
-    "IMG_20231129_130622.jpg": {
-      "type": "photo",
-      "width": 3072,
-      "height": 4096,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130622.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130622.min.jpg"
-    },
-    "IMG_20231129_130616.jpg": {
-      "type": "photo",
-      "width": 3072,
-      "height": 4096,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130616.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130616.min.jpg"
-    },
-    "IMG_20231129_130615.jpg": {
-      "type": "photo",
-      "width": 3072,
-      "height": 4096,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130615.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130615.min.jpg"
-    },
-    "IMG_20231127_122622.jpg": {
-      "type": "photo",
-      "width": 3072,
-      "height": 4096,
-      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231127_122622.jpg",
-      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231127_122622.min.jpg"
+      "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\1.jpg",
+      "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\1.min.jpg"
     }
   }
 }

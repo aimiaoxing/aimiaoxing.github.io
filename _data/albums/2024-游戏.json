@@ -1,0 +1,54 @@
+{
+  "order": [
+    "6.jpg",
+    "5.jpg",
+    "4.jpg",
+    "3.jpg",
+    "2.jpg",
+    "1.jpg"
+  ],
+  "dict": {
+    "6.jpg": {
+      "type": "photo",
+      "width": 1280,
+      "height": 720,
+      "path": "./photos\\2024\\\u6e38\u620f\\6.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\6.min.jpg"
+    },
+    "5.jpg": {
+      "type": "photo",
+      "width": 1280,
+      "height": 720,
+      "path": "./photos\\2024\\\u6e38\u620f\\5.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\5.min.jpg"
+    },
+    "4.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos\\2024\\\u6e38\u620f\\4.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\4.min.jpg"
+    },
+    "3.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos\\2024\\\u6e38\u620f\\3.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\3.min.jpg"
+    },
+    "2.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos\\2024\\\u6e38\u620f\\2.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\2.min.jpg"
+    },
+    "1.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1920,
+      "path": "./photos\\2024\\\u6e38\u620f\\1.jpg",
+      "min_path": "./photos\\2024\\\u6e38\u620f\\1.min.jpg"
+    }
+  }
+}
