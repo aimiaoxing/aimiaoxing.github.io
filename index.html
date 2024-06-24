@@ -43,7 +43,14 @@
     history.go(-1);
     if (pass1.toLowerCase() == "letmein") {
     alert('You Got it Right!');
-    window.open('www.wikihow.com');
+    {%- include header.html -%}
+    <div class="gallary">
+      <h1>{{ site.name }}</h1>
+      {%- assign albums = site.data.config -%}
+      {%- include album.html -%}
+    </div>
+    {%- include footer.html -%}
+    {%- include swipe.html -%}
     break;
     } 
     testV+=1;
@@ -60,13 +67,5 @@
     <input type="button" value="Enter Protected Area" onClick="passWord()">
     </FORM>
     </CENTER>
-    {%- include header.html -%}
-    <div class="gallary">
-      <h1>{{ site.name }}</h1>
-      {%- assign albums = site.data.config -%}
-      {%- include album.html -%}
-    </div>
-    {%- include footer.html -%}
-    {%- include swipe.html -%}
   </body>
 </html>
