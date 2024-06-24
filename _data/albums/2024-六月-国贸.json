@@ -1,0 +1,54 @@
+{
+  "order": [
+    "mmexport1717932416548.jpg",
+    "mmexport1717932411987.jpg",
+    "mmexport1717932408159.jpg",
+    "mmexport1717932404041.jpg",
+    "mmexport1717930607556.jpg",
+    "IMG_20240609_194139.jpg"
+  ],
+  "dict": {
+    "mmexport1717932416548.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932416548.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932416548.min.jpg"
+    },
+    "mmexport1717932411987.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932411987.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932411987.min.jpg"
+    },
+    "mmexport1717932408159.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932408159.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932408159.min.jpg"
+    },
+    "mmexport1717932404041.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932404041.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932404041.min.jpg"
+    },
+    "mmexport1717930607556.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717930607556.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717930607556.min.jpg"
+    },
+    "IMG_20240609_194139.jpg": {
+      "type": "photo",
+      "width": 4096,
+      "height": 3072,
+      "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\IMG_20240609_194139.jpg",
+      "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\IMG_20240609_194139.min.jpg"
+    }
+  }
+}

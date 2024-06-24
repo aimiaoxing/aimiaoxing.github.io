@@ -5,9 +5,82 @@
   "parents": [],
   "items": {
     "order": [
+      "2024",
       "2023"
     ],
     "dict": {
+      "2024": {
+        "name": "2024",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024"
+        ],
+        "items": {
+          "order": [
+            "\u4e94\u6708",
+            "\u516d\u6708"
+          ],
+          "dict": {
+            "\u4e94\u6708": {
+              "name": "\u4e94\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "\u4e94\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u661f\u4e4b\u5361\u6bd4"
+                ],
+                "dict": {
+                  "\u661f\u4e4b\u5361\u6bd4": {
+                    "name": "\u661f\u4e4b\u5361\u6bd4",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "\u4e94\u6708",
+                      "\u661f\u4e4b\u5361\u6bd4"
+                    ],
+                    "path": "./_data\\albums\\2024-\u4e94\u6708-\u661f\u4e4b\u5361\u6bd4.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "\u516d\u6708": {
+              "name": "\u516d\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "\u516d\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u56fd\u8d38"
+                ],
+                "dict": {
+                  "\u56fd\u8d38": {
+                    "name": "\u56fd\u8d38",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "\u516d\u6708",
+                      "\u56fd\u8d38"
+                    ],
+                    "path": "./_data\\albums\\2024-\u516d\u6708-\u56fd\u8d38.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
       "2023": {
         "name": "2023",
         "type": "album",
@@ -17,10 +90,96 @@
         ],
         "items": {
           "order": [
-            "\u516b\u6708",
-            "\u5317\u4eac\u6d77\u6d0b\u9986"
+            "\u4e94\u6708",
+            "\u5341\u4e8c\u6708",
+            "\u5341\u4e00\u6708",
+            "\u516b\u6708"
           ],
           "dict": {
+            "\u4e94\u6708": {
+              "name": "\u4e94\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "\u4e94\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u5317\u4eac\u6d77\u6d0b\u9986"
+                ],
+                "dict": {
+                  "\u5317\u4eac\u6d77\u6d0b\u9986": {
+                    "name": "\u5317\u4eac\u6d77\u6d0b\u9986",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "\u4e94\u6708",
+                      "\u5317\u4eac\u6d77\u6d0b\u9986"
+                    ],
+                    "path": "./_data\\albums\\2023-\u4e94\u6708-\u5317\u4eac\u6d77\u6d0b\u9986.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "\u5341\u4e8c\u6708": {
+              "name": "\u5341\u4e8c\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "\u5341\u4e8c\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385"
+                ],
+                "dict": {
+                  "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385": {
+                    "name": "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "\u5341\u4e8c\u6708",
+                      "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385"
+                    ],
+                    "path": "./_data\\albums\\2023-\u5341\u4e8c\u6708-\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "\u5341\u4e00\u6708": {
+              "name": "\u5341\u4e00\u6708",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "\u5341\u4e00\u6708"
+              ],
+              "items": {
+                "order": [
+                  "\u732b"
+                ],
+                "dict": {
+                  "\u732b": {
+                    "name": "\u732b",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "\u5341\u4e00\u6708",
+                      "\u732b"
+                    ],
+                    "path": "./_data\\albums\\2023-\u5341\u4e00\u6708-\u732b.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "\u516b\u6708": {
               "name": "\u516b\u6708",
               "type": "album",
@@ -31,9 +190,22 @@
               ],
               "items": {
                 "order": [
+                  "\u4e07\u80fd\u5238",
                   "\u60e0\u7075\u987f\u725b\u6392"
                 ],
                 "dict": {
+                  "\u4e07\u80fd\u5238": {
+                    "name": "\u4e07\u80fd\u5238",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2023",
+                      "\u516b\u6708",
+                      "\u4e07\u80fd\u5238"
+                    ],
+                    "path": "./_data\\albums\\2023-\u516b\u6708-\u4e07\u80fd\u5238.json",
+                    "no_sub_album": true
+                  },
                   "\u60e0\u7075\u987f\u725b\u6392": {
                     "name": "\u60e0\u7075\u987f\u725b\u6392",
                     "type": "album",
@@ -48,17 +220,6 @@
                   }
                 }
               }
-            },
-            "\u5317\u4eac\u6d77\u6d0b\u9986": {
-              "name": "\u5317\u4eac\u6d77\u6d0b\u9986",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2023",
-                "\u5317\u4eac\u6d77\u6d0b\u9986"
-              ],
-              "path": "./_data\\albums\\2023-\u5317\u4eac\u6d77\u6d0b\u9986.json",
-              "no_sub_album": true
             }
           }
         }

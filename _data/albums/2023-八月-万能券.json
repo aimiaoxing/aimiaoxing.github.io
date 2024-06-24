@@ -1,0 +1,30 @@
+{
+  "order": [
+    "wx_camera_1692702912828.jpg",
+    "mmexport1692703506143.jpg",
+    "mmexport1692703498824.jpg"
+  ],
+  "dict": {
+    "wx_camera_1692702912828.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\wx_camera_1692702912828.jpg",
+      "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\wx_camera_1692702912828.min.jpg"
+    },
+    "mmexport1692703506143.jpg": {
+      "type": "photo",
+      "width": 1280,
+      "height": 1280,
+      "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703506143.jpg",
+      "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703506143.min.jpg"
+    },
+    "mmexport1692703498824.jpg": {
+      "type": "photo",
+      "width": 1280,
+      "height": 1280,
+      "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703498824.jpg",
+      "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703498824.min.jpg"
+    }
+  }
+}

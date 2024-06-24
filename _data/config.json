@@ -1,5 +1,260 @@
 [
   {
+    "name": "\u661f\u4e4b\u5361\u6bd4",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "\u4e94\u6708",
+      "\u661f\u4e4b\u5361\u6bd4"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\wx_camera_1716271181783.jpg",
+        "min_path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\wx_camera_1716271181783.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\mmexport1717075156719.jpg",
+        "min_path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\mmexport1717075156719.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1279,
+        "height": 1706,
+        "path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\mmexport1717075151722.jpg",
+        "min_path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\mmexport1717075151722.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 3793,
+        "path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\IMG_20240525_191441_edit_1148260980591864.jpg",
+        "min_path": "./photos\\2024\\\u4e94\u6708\\\u661f\u4e4b\u5361\u6bd4\\IMG_20240525_191441_edit_1148260980591864.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "\u56fd\u8d38",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "\u516d\u6708",
+      "\u56fd\u8d38"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932416548.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932416548.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932411987.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932411987.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932408159.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932408159.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932404041.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717932404041.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717930607556.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\mmexport1717930607556.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\IMG_20240609_194139.jpg",
+        "min_path": "./photos\\2024\\\u516d\u6708\\\u56fd\u8d38\\IMG_20240609_194139.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "\u5317\u4eac\u6d77\u6d0b\u9986",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "\u4e94\u6708",
+      "\u5317\u4eac\u6d77\u6d0b\u9986"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1616,
+        "height": 1080,
+        "path": "./photos\\2023\\\u4e94\u6708\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.jpg",
+        "min_path": "./photos\\2023\\\u4e94\u6708\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1117,
+        "height": 860,
+        "path": "./photos\\2023\\\u4e94\u6708\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.jpg",
+        "min_path": "./photos\\2023\\\u4e94\u6708\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "\u5341\u4e8c\u6708",
+      "\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\mmexport1702736829463.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\mmexport1702736829463.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4096,
+        "height": 3072,
+        "path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\mmexport1702736805843.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\mmexport1702736805843.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2818,
+        "height": 3758,
+        "path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_211657_edit_346943649961868.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_211657_edit_346943649961868.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2958,
+        "height": 3957,
+        "path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_203003_edit_344956495316636.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_203003_edit_344956495316636.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_195614.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e8c\u6708\\\u56fd\u8d38\u798f\u697c\u6cd5\u9910\u5385\\IMG_20231216_195614.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "\u732b",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "\u5341\u4e00\u6708",
+      "\u732b"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\wx_camera_1701006670516.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\wx_camera_1701006670516.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\mmexport1700928309001.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\mmexport1700928309001.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1213,
+        "height": 628,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\Screenshot_20231203_234554_com.tencent.mm_edit_248962568544243.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 4096,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130622.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130622.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 4096,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130616.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130616.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 4096,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130615.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231129_130615.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 4096,
+        "path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231127_122622.jpg",
+        "min_path": "./photos\\2023\\\u5341\u4e00\u6708\\\u732b\\IMG_20231127_122622.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "\u4e07\u80fd\u5238",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "\u516b\u6708",
+      "\u4e07\u80fd\u5238"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 1080,
+        "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\wx_camera_1692702912828.jpg",
+        "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\wx_camera_1692702912828.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1280,
+        "height": 1280,
+        "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703506143.jpg",
+        "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703506143.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1280,
+        "height": 1280,
+        "path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703498824.jpg",
+        "min_path": "./photos\\2023\\\u516b\u6708\\\u4e07\u80fd\u5238\\mmexport1692703498824.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "\u60e0\u7075\u987f\u725b\u6392",
     "type": "photos",
     "parents": [
@@ -70,30 +325,6 @@
         "height": 4096,
         "path": "./photos\\2023\\\u516b\u6708\\\u60e0\u7075\u987f\u725b\u6392\\IMG_20230819_180151_edit_485687864908055.jpg",
         "min_path": "./photos\\2023\\\u516b\u6708\\\u60e0\u7075\u987f\u725b\u6392\\IMG_20230819_180151_edit_485687864908055.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "\u5317\u4eac\u6d77\u6d0b\u9986",
-    "type": "photos",
-    "parents": [
-      "2023",
-      "\u5317\u4eac\u6d77\u6d0b\u9986"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 1616,
-        "height": 1080,
-        "path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.jpg",
-        "min_path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\02.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1117,
-        "height": 860,
-        "path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.jpg",
-        "min_path": "./photos\\2023\\\u5317\u4eac\u6d77\u6d0b\u9986\\01.min.jpg"
       }
     ]
   }
